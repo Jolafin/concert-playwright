@@ -1,0 +1,21 @@
+{
+  "name": "concert-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jolafin/concert-playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jolafin/concert-playwright/issues"
+  },
+  "homepage": "https://github.com/Jolafin/concert-playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.24.2"
+  }
+}
